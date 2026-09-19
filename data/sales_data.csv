@@ -1,0 +1,601 @@
+Order ID,Order Date,Product,Category,City,Quantity,Unit Price,Total Sales
+1029,2025-01-01,Backpack,Bags & Luggage,Pune,1,1784.86,1784.86
+1094,2025-01-01,Formal Shoes,Footwear,Lucknow,1,2763.45,2763.45
+1026,2025-01-02,Running Shoes,Footwear,Jaipur,3,2366.88,7100.64
+1192,2025-01-02,Formal Shoes,Footwear,Lucknow,3,2923.24,8769.72
+1333,2025-01-03,USB-C Charger,Electronics,Bengaluru,1,761.02,761.02
+1005,2025-01-04,Men's Cotton T-Shirt,Apparel,Bengaluru,1,519.34,519.34
+1542,2025-01-04,Non-stick Pan,Home & Kitchen,Pune,2,892.88,1785.76
+1061,2025-01-05,LED Desk Lamp,Home & Kitchen,Delhi,2,668.96,1337.92
+1155,2025-01-07,Hair Dryer,Beauty & Personal Care,Pune,2,1084.67,2169.34
+1509,2025-01-07,Wireless Mouse,Electronics,Chennai,1,610.28,610.28
+1048,2025-01-08,USB-C Charger,Electronics,Bengaluru,3,855.27,2565.81
+1510,2025-01-09,Notebook Pack (5pc),Stationery,Bengaluru,2,262.87,525.74
+1521,2025-01-09,Women's Kurti,Apparel,Nagpur,3,922.66,2767.98
+1242,2025-01-11,Bluetooth Headphones,Electronics,Bengaluru,1,1577.37,1577.37
+1398,2025-01-12,USB-C Charger,Electronics,Hyderabad,2,857.23,1714.46
+1470,2025-01-12,Formal Shoes,Footwear,Kolkata,3,2827.52,8482.56
+1120,2025-01-14,Non-stick Pan,Home & Kitchen,Delhi,2,923.22,1846.44
+1185,2025-01-15,Backpack,Bags & Luggage,Chennai,3,1895.99,5687.97
+1570,2025-01-15,Backpack,Bags & Luggage,Kolkata,1,1915.58,1915.58
+1238,2025-01-17,Dumbbell Set (10kg),Sports & Fitness,Hyderabad,1,2444.63,2444.63
+1473,2025-01-17,Electric Kettle,Home & Kitchen,Mumbai,4,1337.89,5351.56
+1360,2025-01-18,Laptop Stand,Electronics,Pune,3,1149.53,3448.59
+1180,2025-01-19,LED Desk Lamp,Home & Kitchen,Delhi,1,623.98,623.98
+1234,2025-01-20,Formal Shoes,Footwear,Hyderabad,1,3021.44,3021.44
+1440,2025-01-20,Wireless Mouse,Electronics,Pune,2,592.29,1184.58
+1222,2025-01-21,Formal Shoes,Footwear,Pune,1,2946.00,2946.00
+1301,2025-01-22,LED Desk Lamp,Home & Kitchen,Hyderabad,2,693.25,1386.50
+1207,2025-01-24,Yoga Mat,Sports & Fitness,Pune,1,736.40,736.40
+1386,2025-01-24,Hair Dryer,Beauty & Personal Care,Lucknow,1,1081.86,1081.86
+1497,2025-01-24,Hair Dryer,Beauty & Personal Care,Mumbai,3,1167.50,3502.50
+1505,2025-01-25,Wireless Mouse,Electronics,Hyderabad,3,601.16,1803.48
+1218,2025-01-26,Backpack,Bags & Luggage,Chennai,3,1883.32,5649.96
+1276,2025-01-26,USB-C Charger,Electronics,Ahmedabad,2,787.31,1574.62
+1265,2025-01-27,Formal Shoes,Footwear,Lucknow,1,2877.52,2877.52
+1325,2025-01-27,Storybook Set (Kids),Books,Delhi,2,583.94,1167.88
+1158,2025-01-28,Laptop Stand,Electronics,Chennai,2,1162.31,2324.62
+1055,2025-01-30,Notebook Pack (5pc),Stationery,Lucknow,1,239.14,239.14
+1038,2025-01-31,Denim Jeans,Apparel,Pune,1,1533.06,1533.06
+1504,2025-01-31,Notebook Pack (5pc),Stationery,Surat,3,237.64,712.92
+1507,2025-01-31,Backpack,Bags & Luggage,Ahmedabad,4,1858.20,7432.80
+1599,2025-01-31,Running Shoes,Footwear,Bengaluru,1,2336.91,2336.91
+1044,2025-02-01,Non-stick Pan,Home & Kitchen,Delhi,3,939.16,2817.48
+1419,2025-02-01,Laptop Stand,Electronics,Surat,2,1219.90,2439.80
+1464,2025-02-02,Face Wash,Beauty & Personal Care,Delhi,4,376.65,1506.60
+1572,2025-02-02,Hair Dryer,Beauty & Personal Care,Bengaluru,4,1058.59,4234.36
+1157,2025-02-03,Non-stick Pan,Home & Kitchen,Surat,2,911.52,1823.04
+1255,2025-02-03,Laptop Stand,Electronics,Jaipur,2,1181.92,2363.84
+1056,2025-02-04,Denim Jeans,Apparel,Lucknow,4,1602.98,6411.92
+1506,2025-02-04,Laptop Stand,Electronics,Pune,2,1140.47,2280.94
+1063,2025-02-05,Denim Jeans,Apparel,Jaipur,1,1595.86,1595.86
+1134,2025-02-05,Notebook Pack (5pc),Stationery,Kolkata,1,257.51,257.51
+1039,2025-02-06,Notebook Pack (5pc),Stationery,Hyderabad,2,244.25,488.50
+1062,2025-02-07,Face Wash,Beauty & Personal Care,Pune,1,341.22,341.22
+1376,2025-02-07,Laptop Stand,Electronics,Ahmedabad,2,1290.61,2581.22
+1530,2025-02-07,USB-C Charger,Electronics,Surat,1,786.88,786.88
+1358,2025-02-08,Non-stick Pan,Home & Kitchen,Surat,3,896.51,2689.53
+1110,2025-02-09,Formal Shoes,Footwear,Jaipur,1,2744.38,2744.38
+1316,2025-02-09,Formal Shoes,Footwear,Jaipur,1,2966.31,2966.31
+1011,2025-02-10,Denim Jeans,Apparel,Ahmedabad,1,1699.17,1699.17
+1428,2025-02-10,Dumbbell Set (10kg),Sports & Fitness,Nagpur,2,2674.23,5348.46
+1513,2025-02-10,Dumbbell Set (10kg),Sports & Fitness,Hyderabad,2,2685.70,5371.40
+1111,2025-02-11,Laptop Stand,Electronics,Bengaluru,1,1162.56,1162.56
+1124,2025-02-11,Storybook Set (Kids),Books,Pune,2,522.93,1045.86
+1330,2025-02-11,Dumbbell Set (10kg),Sports & Fitness,Delhi,1,2447.00,2447.00
+1456,2025-02-11,Notebook Pack (5pc),Stationery,Delhi,3,251.01,753.03
+1031,2025-02-13,Storybook Set (Kids),Books,Jaipur,5,579.79,2898.95
+1159,2025-02-13,Denim Jeans,Apparel,Lucknow,3,1543.67,4631.01
+1304,2025-02-13,Notebook Pack (5pc),Stationery,Nagpur,1,257.47,257.47
+1533,2025-02-14,Men's Cotton T-Shirt,Apparel,Jaipur,2,502.01,1004.02
+1288,2025-02-15,Electric Kettle,Home & Kitchen,Lucknow,1,1376.66,1376.66
+1229,2025-02-16,Non-stick Pan,Home & Kitchen,Ahmedabad,2,855.68,1711.36
+1273,2025-02-16,Notebook Pack (5pc),Stationery,Pune,1,243.51,243.51
+1328,2025-02-16,Denim Jeans,Apparel,Mumbai,4,1688.82,6755.28
+1460,2025-02-16,Notebook Pack (5pc),Stationery,Bengaluru,1,250.97,250.97
+1383,2025-02-17,Notebook Pack (5pc),Stationery,Lucknow,2,257.30,514.60
+1042,2025-02-18,Smartwatch,Electronics,Kolkata,1,3623.80,3623.80
+1260,2025-02-18,Yoga Mat,Sports & Fitness,Pune,2,702.83,1405.66
+1525,2025-02-20,Electric Kettle,Home & Kitchen,Lucknow,1,1273.25,1273.25
+1132,2025-02-22,Formal Shoes,Footwear,Delhi,2,2968.45,5936.90
+1066,2025-02-23,Laptop Stand,Electronics,Nagpur,4,1180.27,4721.08
+1027,2025-02-24,Formal Shoes,Footwear,Hyderabad,2,2965.31,5930.62
+1215,2025-02-24,Denim Jeans,Apparel,Chennai,1,1598.32,1598.32
+1393,2025-02-24,Yoga Mat,Sports & Fitness,Ahmedabad,1,686.02,686.02
+1511,2025-02-24,Smartwatch,Electronics,Lucknow,1,3562.58,3562.58
+1558,2025-02-24,Wireless Mouse,Electronics,Nagpur,1,576.73,576.73
+1231,2025-02-25,Denim Jeans,Apparel,Jaipur,2,1617.06,3234.12
+1129,2025-02-28,Men's Cotton T-Shirt,Apparel,Mumbai,1,536.63,536.63
+1258,2025-02-28,Face Wash,Beauty & Personal Care,Ahmedabad,1,364.25,364.25
+1278,2025-02-28,Dumbbell Set (10kg),Sports & Fitness,Surat,1,2513.72,2513.72
+1566,2025-02-28,Wireless Mouse,Electronics,Surat,2,635.18,1270.36
+1405,2025-03-02,Laptop Stand,Electronics,Pune,1,1291.04,1291.04
+1492,2025-03-02,Storybook Set (Kids),Books,Nagpur,2,586.81,1173.62
+1032,2025-03-06,Laptop Stand,Electronics,Bengaluru,4,1241.89,4967.56
+1127,2025-03-06,Storybook Set (Kids),Books,Hyderabad,2,569.33,1138.66
+1071,2025-03-08,Running Shoes,Footwear,Nagpur,1,2135.24,2135.24
+1184,2025-03-09,Formal Shoes,Footwear,Delhi,2,2818.47,5636.94
+1223,2025-03-09,USB-C Charger,Electronics,Kolkata,1,853.53,853.53
+1247,2025-03-09,Wireless Mouse,Electronics,Lucknow,3,596.95,1790.85
+1318,2025-03-09,Backpack,Bags & Luggage,Nagpur,1,1797.15,1797.15
+1442,2025-03-10,Notebook Pack (5pc),Stationery,Delhi,1,251.70,251.70
+1468,2025-03-10,Dumbbell Set (10kg),Sports & Fitness,Kolkata,5,2412.59,12062.95
+1346,2025-03-11,USB-C Charger,Electronics,Mumbai,4,833.43,3333.72
+1021,2025-03-12,Notebook Pack (5pc),Stationery,Delhi,3,252.53,757.59
+1281,2025-03-12,Running Shoes,Footwear,Ahmedabad,1,2171.79,2171.79
+1001,2025-03-13,Smartwatch,Electronics,Delhi,4,3631.86,14527.44
+1372,2025-03-13,Denim Jeans,Apparel,Jaipur,1,1683.34,1683.34
+1409,2025-03-13,Yoga Mat,Sports & Fitness,Kolkata,1,748.68,748.68
+1477,2025-03-13,Notebook Pack (5pc),Stationery,Nagpur,1,268.71,268.71
+1538,2025-03-13,Running Shoes,Footwear,Delhi,2,2175.13,4350.26
+1563,2025-03-14,Dumbbell Set (10kg),Sports & Fitness,Hyderabad,2,2475.37,4950.74
+1338,2025-03-15,Formal Shoes,Footwear,Hyderabad,2,2815.24,5630.48
+1485,2025-03-15,LED Desk Lamp,Home & Kitchen,Kolkata,2,693.73,1387.46
+1074,2025-03-17,Electric Kettle,Home & Kitchen,Mumbai,1,1255.57,1255.57
+1416,2025-03-17,Denim Jeans,Apparel,Delhi,4,1525.61,6102.44
+1073,2025-03-18,Face Wash,Beauty & Personal Care,Jaipur,1,333.18,333.18
+1198,2025-03-19,Storybook Set (Kids),Books,Lucknow,1,590.41,590.41
+1022,2025-03-20,Men's Cotton T-Shirt,Apparel,Delhi,1,525.43,525.43
+1028,2025-03-20,Dumbbell Set (10kg),Sports & Fitness,Jaipur,2,2621.77,5243.54
+1261,2025-03-20,Storybook Set (Kids),Books,Delhi,3,526.34,1579.02
+1384,2025-03-20,Men's Cotton T-Shirt,Apparel,Lucknow,3,516.78,1550.34
+1531,2025-03-20,Non-stick Pan,Home & Kitchen,Mumbai,1,891.06,891.06
+1201,2025-03-21,USB-C Charger,Electronics,Pune,5,807.82,4039.10
+1472,2025-03-21,Running Shoes,Footwear,Delhi,4,2142.93,8571.72
+1274,2025-03-22,Dumbbell Set (10kg),Sports & Fitness,Lucknow,1,2475.29,2475.29
+1390,2025-03-22,LED Desk Lamp,Home & Kitchen,Pune,2,651.62,1303.24
+1434,2025-03-22,Electric Kettle,Home & Kitchen,Ahmedabad,4,1344.30,5377.20
+1359,2025-03-23,Wireless Mouse,Electronics,Ahmedabad,2,580.17,1160.34
+1451,2025-03-23,Non-stick Pan,Home & Kitchen,Nagpur,4,934.23,3736.92
+1324,2025-03-24,Women's Kurti,Apparel,Chennai,1,947.69,947.69
+1077,2025-03-25,Men's Cotton T-Shirt,Apparel,Nagpur,1,531.23,531.23
+1050,2025-03-26,Non-stick Pan,Home & Kitchen,Ahmedabad,1,854.30,854.30
+1119,2025-03-26,LED Desk Lamp,Home & Kitchen,Jaipur,5,694.13,3470.65
+1380,2025-03-26,Men's Cotton T-Shirt,Apparel,Pune,3,494.98,1484.94
+1567,2025-03-26,Denim Jeans,Apparel,Pune,2,1626.31,3252.62
+1356,2025-03-27,LED Desk Lamp,Home & Kitchen,Pune,1,646.21,646.21
+1539,2025-03-27,Electric Kettle,Home & Kitchen,Delhi,1,1280.65,1280.65
+1097,2025-03-28,USB-C Charger,Electronics,Lucknow,2,788.53,1577.06
+1287,2025-03-29,Backpack,Bags & Luggage,Pune,2,1816.65,3633.30
+1415,2025-03-29,Notebook Pack (5pc),Stationery,Kolkata,2,256.91,513.82
+1164,2025-03-30,Face Wash,Beauty & Personal Care,Ahmedabad,1,334.96,334.96
+1293,2025-03-30,Backpack,Bags & Luggage,Delhi,3,1744.80,5234.40
+1368,2025-03-30,LED Desk Lamp,Home & Kitchen,Pune,3,700.69,2102.07
+1581,2025-03-30,Face Wash,Beauty & Personal Care,Bengaluru,1,339.12,339.12
+1224,2025-03-31,Women's Kurti,Apparel,Pune,2,869.50,1739.00
+1345,2025-03-31,LED Desk Lamp,Home & Kitchen,Bengaluru,2,699.30,1398.60
+1371,2025-03-31,Dumbbell Set (10kg),Sports & Fitness,Hyderabad,1,2539.33,2539.33
+1438,2025-03-31,Electric Kettle,Home & Kitchen,Mumbai,1,1383.03,1383.03
+1481,2025-03-31,Electric Kettle,Home & Kitchen,Pune,1,1327.92,1327.92
+1294,2025-04-01,Storybook Set (Kids),Books,Lucknow,2,554.66,1109.32
+1209,2025-04-03,Men's Cotton T-Shirt,Apparel,Kolkata,2,485.41,970.82
+1354,2025-04-03,Face Wash,Beauty & Personal Care,Pune,1,344.88,344.88
+1046,2025-04-04,Running Shoes,Footwear,Delhi,4,2221.30,8885.20
+1156,2025-04-05,Bluetooth Headphones,Electronics,Delhi,4,1473.25,5893.00
+1447,2025-04-05,Laptop Stand,Electronics,Mumbai,4,1213.47,4853.88
+1444,2025-04-06,Wireless Mouse,Electronics,Lucknow,3,626.41,1879.23
+1417,2025-04-08,Wireless Mouse,Electronics,Kolkata,1,603.39,603.39
+1322,2025-04-10,Dumbbell Set (10kg),Sports & Fitness,Ahmedabad,2,2594.41,5188.82
+1131,2025-04-12,USB-C Charger,Electronics,Hyderabad,3,820.55,2461.65
+1168,2025-04-12,Electric Kettle,Home & Kitchen,Bengaluru,1,1253.43,1253.43
+1545,2025-04-13,Storybook Set (Kids),Books,Pune,5,543.97,2719.85
+1458,2025-04-14,Hair Dryer,Beauty & Personal Care,Jaipur,1,1120.72,1120.72
+1059,2025-04-15,Yoga Mat,Sports & Fitness,Surat,1,685.74,685.74
+1493,2025-04-15,Non-stick Pan,Home & Kitchen,Chennai,2,961.00,1922.00
+1595,2025-04-16,Women's Kurti,Apparel,Jaipur,2,948.18,1896.36
+1163,2025-04-17,Women's Kurti,Apparel,Hyderabad,1,884.98,884.98
+1550,2025-04-18,LED Desk Lamp,Home & Kitchen,Delhi,3,683.85,2051.55
+1017,2025-04-19,Hair Dryer,Beauty & Personal Care,Surat,1,1169.26,1169.26
+1006,2025-04-21,Yoga Mat,Sports & Fitness,Pune,1,673.34,673.34
+1399,2025-04-21,Hair Dryer,Beauty & Personal Care,Ahmedabad,1,1094.47,1094.47
+1463,2025-04-22,Hair Dryer,Beauty & Personal Care,Nagpur,1,1054.48,1054.48
+1117,2025-04-23,Storybook Set (Kids),Books,Mumbai,1,537.21,537.21
+1146,2025-04-24,Non-stick Pan,Home & Kitchen,Lucknow,1,934.90,934.90
+1480,2025-04-24,Electric Kettle,Home & Kitchen,Lucknow,1,1284.80,1284.80
+1125,2025-04-25,USB-C Charger,Electronics,Mumbai,2,840.20,1680.40
+1268,2025-04-26,Electric Kettle,Home & Kitchen,Lucknow,5,1376.77,6883.85
+1259,2025-04-27,Electric Kettle,Home & Kitchen,Kolkata,2,1291.29,2582.58
+1016,2025-04-28,Bluetooth Headphones,Electronics,Delhi,1,1580.93,1580.93
+1037,2025-04-28,Hair Dryer,Beauty & Personal Care,Surat,1,1075.51,1075.51
+1219,2025-04-28,Backpack,Bags & Luggage,Hyderabad,1,1896.60,1896.60
+1437,2025-04-29,Face Wash,Beauty & Personal Care,Mumbai,4,365.06,1460.24
+1167,2025-04-30,Running Shoes,Footwear,Surat,2,2314.27,4628.54
+1196,2025-04-30,Electric Kettle,Home & Kitchen,Nagpur,3,1241.42,3724.26
+1476,2025-04-30,Face Wash,Beauty & Personal Care,Mumbai,4,341.41,1365.64
+1335,2025-05-02,Formal Shoes,Footwear,Surat,1,2703.39,2703.39
+1479,2025-05-02,Formal Shoes,Footwear,Jaipur,5,2977.89,14889.45
+1593,2025-05-02,Women's Kurti,Apparel,Pune,2,948.80,1897.60
+1431,2025-05-03,Denim Jeans,Apparel,Hyderabad,4,1529.60,6118.40
+1578,2025-05-03,Formal Shoes,Footwear,Bengaluru,1,2701.60,2701.60
+1474,2025-05-04,Women's Kurti,Apparel,Ahmedabad,2,861.91,1723.82
+1537,2025-05-05,Hair Dryer,Beauty & Personal Care,Bengaluru,2,1118.50,2237.00
+1014,2025-05-06,Men's Cotton T-Shirt,Apparel,Surat,1,504.04,504.04
+1100,2025-05-06,Storybook Set (Kids),Books,Ahmedabad,3,565.18,1695.54
+1139,2025-05-06,USB-C Charger,Electronics,Ahmedabad,2,788.02,1576.04
+1500,2025-05-06,Storybook Set (Kids),Books,Pune,4,560.85,2243.40
+1036,2025-05-07,Denim Jeans,Apparel,Jaipur,1,1532.36,1532.36
+1057,2025-05-07,Hair Dryer,Beauty & Personal Care,Kolkata,2,1128.99,2257.98
+1126,2025-05-07,Women's Kurti,Apparel,Hyderabad,2,952.13,1904.26
+1394,2025-05-07,Laptop Stand,Electronics,Kolkata,1,1154.14,1154.14
+1045,2025-05-08,Women's Kurti,Apparel,Kolkata,1,876.28,876.28
+1556,2025-05-08,Dumbbell Set (10kg),Sports & Fitness,Lucknow,2,2428.09,4856.18
+1149,2025-05-09,Denim Jeans,Apparel,Delhi,1,1544.13,1544.13
+1501,2025-05-12,Storybook Set (Kids),Books,Ahmedabad,2,590.53,1181.06
+1122,2025-05-14,Non-stick Pan,Home & Kitchen,Pune,2,892.31,1784.62
+1366,2025-05-14,LED Desk Lamp,Home & Kitchen,Nagpur,2,634.65,1269.30
+1448,2025-05-14,Non-stick Pan,Home & Kitchen,Pune,3,881.58,2644.74
+1498,2025-05-14,Face Wash,Beauty & Personal Care,Kolkata,2,373.96,747.92
+1592,2025-05-15,Dumbbell Set (10kg),Sports & Fitness,Delhi,1,2654.15,2654.15
+1019,2025-05-16,Laptop Stand,Electronics,Chennai,2,1177.49,2354.98
+1033,2025-05-16,Notebook Pack (5pc),Stationery,Hyderabad,1,264.79,264.79
+1013,2025-05-17,USB-C Charger,Electronics,Nagpur,1,822.32,822.32
+1025,2025-05-17,Yoga Mat,Sports & Fitness,Ahmedabad,1,674.19,674.19
+1079,2025-05-17,Men's Cotton T-Shirt,Apparel,Mumbai,1,525.13,525.13
+1169,2025-05-17,Laptop Stand,Electronics,Chennai,1,1150.18,1150.18
+1270,2025-05-17,Wireless Mouse,Electronics,Chennai,3,583.10,1749.30
+1353,2025-05-17,USB-C Charger,Electronics,Lucknow,1,834.57,834.57
+1175,2025-05-18,Hair Dryer,Beauty & Personal Care,Ahmedabad,3,1049.80,3149.40
+1137,2025-05-19,Backpack,Bags & Luggage,Ahmedabad,2,1898.06,3796.12
+1327,2025-05-20,LED Desk Lamp,Home & Kitchen,Kolkata,1,692.93,692.93
+1217,2025-05-21,Wireless Mouse,Electronics,Nagpur,2,613.12,1226.24
+1109,2025-05-22,Notebook Pack (5pc),Stationery,Ahmedabad,1,252.24,252.24
+1191,2025-05-22,Electric Kettle,Home & Kitchen,Chennai,3,1291.44,3874.32
+1364,2025-05-23,Denim Jeans,Apparel,Bengaluru,1,1718.71,1718.71
+1423,2025-05-23,Face Wash,Beauty & Personal Care,Chennai,4,345.09,1380.36
+1520,2025-05-24,Face Wash,Beauty & Personal Care,Pune,1,357.12,357.12
+1596,2025-05-24,Backpack,Bags & Luggage,Nagpur,1,1835.05,1835.05
+1441,2025-05-26,LED Desk Lamp,Home & Kitchen,Ahmedabad,2,700.00,1400.00
+1051,2025-05-27,Electric Kettle,Home & Kitchen,Jaipur,3,1351.68,4055.04
+1205,2025-05-28,Denim Jeans,Apparel,Delhi,1,1674.28,1674.28
+1212,2025-05-28,Face Wash,Beauty & Personal Care,Pune,1,338.72,338.72
+1424,2025-05-28,Women's Kurti,Apparel,Ahmedabad,2,934.72,1869.44
+1426,2025-05-28,Smartwatch,Electronics,Kolkata,2,3584.91,7169.82
+1154,2025-05-30,Laptop Stand,Electronics,Delhi,3,1238.47,3715.41
+1188,2025-05-30,Notebook Pack (5pc),Stationery,Ahmedabad,1,259.38,259.38
+1536,2025-05-30,Electric Kettle,Home & Kitchen,Jaipur,1,1299.54,1299.54
+1546,2025-05-30,Storybook Set (Kids),Books,Pune,3,590.62,1771.86
+1586,2025-05-30,Bluetooth Headphones,Electronics,Bengaluru,2,1477.61,2955.22
+1597,2025-05-30,Formal Shoes,Footwear,Jaipur,5,2867.45,14337.25
+1009,2025-05-31,Backpack,Bags & Luggage,Hyderabad,1,1916.13,1916.13
+1347,2025-05-31,Women's Kurti,Apparel,Mumbai,1,859.17,859.17
+1152,2025-06-01,Denim Jeans,Apparel,Nagpur,1,1594.07,1594.07
+1499,2025-06-01,Laptop Stand,Electronics,Lucknow,1,1169.63,1169.63
+1562,2025-06-01,Electric Kettle,Home & Kitchen,Nagpur,1,1389.50,1389.50
+1091,2025-06-03,Notebook Pack (5pc),Stationery,Kolkata,1,246.56,246.56
+1370,2025-06-03,Men's Cotton T-Shirt,Apparel,Surat,4,520.23,2080.92
+1449,2025-06-04,Hair Dryer,Beauty & Personal Care,Surat,1,1147.33,1147.33
+1491,2025-06-05,Wireless Mouse,Electronics,Nagpur,1,585.54,585.54
+1081,2025-06-06,Denim Jeans,Apparel,Kolkata,2,1565.39,3130.78
+1030,2025-06-07,Denim Jeans,Apparel,Delhi,4,1531.09,6124.36
+1413,2025-06-07,Wireless Mouse,Electronics,Surat,1,615.53,615.53
+1532,2025-06-07,LED Desk Lamp,Home & Kitchen,Bengaluru,1,646.92,646.92
+1099,2025-06-08,Denim Jeans,Apparel,Mumbai,1,1686.71,1686.71
+1312,2025-06-08,Face Wash,Beauty & Personal Care,Bengaluru,3,348.64,1045.92
+1130,2025-06-09,Hair Dryer,Beauty & Personal Care,Kolkata,5,1140.82,5704.10
+1452,2025-06-09,Smartwatch,Electronics,Pune,4,3614.58,14458.32
+1086,2025-06-10,Electric Kettle,Home & Kitchen,Kolkata,2,1336.42,2672.84
+1285,2025-06-10,Hair Dryer,Beauty & Personal Care,Surat,1,1105.38,1105.38
+1348,2025-06-11,Formal Shoes,Footwear,Jaipur,5,2846.58,14232.90
+1582,2025-06-11,LED Desk Lamp,Home & Kitchen,Mumbai,4,668.81,2675.24
+1195,2025-06-14,Women's Kurti,Apparel,Kolkata,1,968.67,968.67
+1302,2025-06-14,Backpack,Bags & Luggage,Mumbai,1,1820.29,1820.29
+1173,2025-06-15,Backpack,Bags & Luggage,Surat,1,1767.60,1767.60
+1248,2025-06-15,Wireless Mouse,Electronics,Nagpur,1,582.62,582.62
+1141,2025-06-16,Men's Cotton T-Shirt,Apparel,Chennai,1,505.68,505.68
+1232,2025-06-17,Backpack,Bags & Luggage,Ahmedabad,1,1760.82,1760.82
+1396,2025-06-17,Hair Dryer,Beauty & Personal Care,Bengaluru,1,1147.08,1147.08
+1082,2025-06-18,Running Shoes,Footwear,Chennai,5,2336.14,11680.70
+1308,2025-06-18,Smartwatch,Electronics,Chennai,1,3577.85,3577.85
+1084,2025-06-19,Wireless Mouse,Electronics,Bengaluru,5,578.03,2890.15
+1090,2025-06-19,Backpack,Bags & Luggage,Nagpur,3,1782.47,5347.41
+1199,2025-06-19,Smartwatch,Electronics,Jaipur,1,3721.69,3721.69
+1443,2025-06-19,Men's Cotton T-Shirt,Apparel,Nagpur,2,521.48,1042.96
+1487,2025-06-19,USB-C Charger,Electronics,Delhi,3,854.84,2564.52
+1078,2025-06-20,Electric Kettle,Home & Kitchen,Hyderabad,4,1369.52,5478.08
+1178,2025-06-20,Yoga Mat,Sports & Fitness,Pune,4,724.95,2899.80
+1344,2025-06-20,Laptop Stand,Electronics,Surat,2,1145.96,2291.92
+1408,2025-06-20,Storybook Set (Kids),Books,Jaipur,1,558.61,558.61
+1098,2025-06-21,USB-C Charger,Electronics,Surat,3,844.06,2532.18
+1385,2025-06-22,Hair Dryer,Beauty & Personal Care,Delhi,4,1049.94,4199.76
+1271,2025-06-23,Dumbbell Set (10kg),Sports & Fitness,Lucknow,4,2376.03,9504.12
+1290,2025-06-23,Denim Jeans,Apparel,Jaipur,1,1588.28,1588.28
+1352,2025-06-23,Men's Cotton T-Shirt,Apparel,Jaipur,2,506.24,1012.48
+1142,2025-06-24,Running Shoes,Footwear,Chennai,3,2340.71,7022.13
+1315,2025-06-24,Storybook Set (Kids),Books,Bengaluru,5,535.25,2676.25
+1068,2025-06-25,Women's Kurti,Apparel,Jaipur,4,934.40,3737.60
+1007,2025-06-26,Backpack,Bags & Luggage,Ahmedabad,1,1770.91,1770.91
+1194,2025-06-26,Yoga Mat,Sports & Fitness,Ahmedabad,2,714.20,1428.40
+1343,2025-06-26,Denim Jeans,Apparel,Lucknow,2,1671.41,3342.82
+1392,2025-06-26,Non-stick Pan,Home & Kitchen,Jaipur,1,869.33,869.33
+1427,2025-06-26,Laptop Stand,Electronics,Nagpur,1,1184.32,1184.32
+1425,2025-06-28,Face Wash,Beauty & Personal Care,Chennai,3,373.91,1121.73
+1083,2025-06-29,Notebook Pack (5pc),Stationery,Jaipur,5,249.49,1247.45
+1267,2025-06-29,Face Wash,Beauty & Personal Care,Lucknow,3,348.23,1044.69
+1292,2025-06-29,Laptop Stand,Electronics,Hyderabad,1,1175.88,1175.88
+1350,2025-07-02,Bluetooth Headphones,Electronics,Delhi,1,1592.77,1592.77
+1528,2025-07-02,Face Wash,Beauty & Personal Care,Surat,1,374.25,374.25
+1075,2025-07-03,Women's Kurti,Apparel,Pune,2,933.76,1867.52
+1240,2025-07-03,Bluetooth Headphones,Electronics,Delhi,1,1501.64,1501.64
+1340,2025-07-04,USB-C Charger,Electronics,Jaipur,2,858.08,1716.16
+1450,2025-07-04,Denim Jeans,Apparel,Chennai,1,1531.96,1531.96
+1495,2025-07-04,Notebook Pack (5pc),Stationery,Nagpur,2,265.13,530.26
+1540,2025-07-04,Running Shoes,Footwear,Ahmedabad,3,2358.97,7076.91
+1239,2025-07-05,Smartwatch,Electronics,Surat,1,3770.24,3770.24
+1250,2025-07-05,Notebook Pack (5pc),Stationery,Hyderabad,2,255.77,511.54
+1314,2025-07-05,Wireless Mouse,Electronics,Hyderabad,1,597.29,597.29
+1361,2025-07-05,Non-stick Pan,Home & Kitchen,Bengaluru,1,965.01,965.01
+1403,2025-07-05,Face Wash,Beauty & Personal Care,Ahmedabad,1,344.64,344.64
+1402,2025-07-07,Bluetooth Headphones,Electronics,Hyderabad,2,1502.11,3004.22
+1573,2025-07-07,Yoga Mat,Sports & Fitness,Surat,1,681.96,681.96
+1589,2025-07-07,Face Wash,Beauty & Personal Care,Nagpur,1,368.87,368.87
+1147,2025-07-08,Storybook Set (Kids),Books,Nagpur,1,561.05,561.05
+1230,2025-07-08,Running Shoes,Footwear,Pune,3,2256.16,6768.48
+1299,2025-07-08,Formal Shoes,Footwear,Delhi,4,2686.97,10747.88
+1351,2025-07-08,Electric Kettle,Home & Kitchen,Kolkata,3,1384.26,4152.78
+1412,2025-07-08,Yoga Mat,Sports & Fitness,Lucknow,5,725.28,3626.40
+1306,2025-07-10,Formal Shoes,Footwear,Surat,3,2800.02,8400.06
+1560,2025-07-11,Non-stick Pan,Home & Kitchen,Nagpur,2,908.17,1816.34
+1547,2025-07-12,Running Shoes,Footwear,Delhi,1,2322.46,2322.46
+1467,2025-07-13,Non-stick Pan,Home & Kitchen,Jaipur,5,863.43,4317.15
+1093,2025-07-14,Men's Cotton T-Shirt,Apparel,Jaipur,1,513.98,513.98
+1123,2025-07-14,Running Shoes,Footwear,Chennai,3,2304.03,6912.09
+1494,2025-07-14,LED Desk Lamp,Home & Kitchen,Chennai,1,661.57,661.57
+1197,2025-07-15,Non-stick Pan,Home & Kitchen,Surat,3,969.57,2908.71
+1023,2025-07-17,Non-stick Pan,Home & Kitchen,Chennai,2,923.69,1847.38
+1342,2025-07-18,Dumbbell Set (10kg),Sports & Fitness,Delhi,1,2456.45,2456.45
+1118,2025-07-19,Yoga Mat,Sports & Fitness,Nagpur,3,724.83,2174.49
+1523,2025-07-19,Face Wash,Beauty & Personal Care,Bengaluru,3,346.60,1039.80
+1571,2025-07-19,Wireless Mouse,Electronics,Nagpur,1,623.93,623.93
+1280,2025-07-22,Backpack,Bags & Luggage,Hyderabad,1,1721.86,1721.86
+1284,2025-07-23,Bluetooth Headphones,Electronics,Delhi,2,1509.06,3018.12
+1439,2025-07-23,Storybook Set (Kids),Books,Chennai,3,534.85,1604.55
+1522,2025-07-23,USB-C Charger,Electronics,Lucknow,2,790.14,1580.28
+1102,2025-07-24,Denim Jeans,Apparel,Delhi,2,1549.73,3099.46
+1289,2025-07-25,Notebook Pack (5pc),Stationery,Nagpur,4,239.10,956.40
+1407,2025-07-25,Notebook Pack (5pc),Stationery,Nagpur,1,237.85,237.85
+1181,2025-07-26,Notebook Pack (5pc),Stationery,Jaipur,1,263.25,263.25
+1049,2025-07-28,Storybook Set (Kids),Books,Mumbai,4,555.90,2223.60
+1144,2025-07-28,Storybook Set (Kids),Books,Ahmedabad,1,561.17,561.17
+1534,2025-07-28,Smartwatch,Electronics,Delhi,1,3336.00,3336.00
+1483,2025-07-29,Laptop Stand,Electronics,Jaipur,1,1185.79,1185.79
+1551,2025-07-29,Storybook Set (Kids),Books,Chennai,1,531.48,531.48
+1179,2025-07-30,Storybook Set (Kids),Books,Jaipur,4,542.12,2168.48
+1101,2025-08-01,Hair Dryer,Beauty & Personal Care,Ahmedabad,2,1071.83,2143.66
+1237,2025-08-01,Smartwatch,Electronics,Chennai,2,3703.27,7406.54
+1329,2025-08-01,Bluetooth Headphones,Electronics,Kolkata,1,1501.31,1501.31
+1286,2025-08-02,Formal Shoes,Footwear,Pune,1,2700.96,2700.96
+1387,2025-08-02,Backpack,Bags & Luggage,Surat,2,1858.49,3716.98
+1116,2025-08-03,Face Wash,Beauty & Personal Care,Lucknow,2,365.46,730.92
+1249,2025-08-04,Notebook Pack (5pc),Stationery,Ahmedabad,1,240.23,240.23
+1580,2025-08-05,Men's Cotton T-Shirt,Apparel,Surat,2,505.62,1011.24
+1103,2025-08-06,Denim Jeans,Apparel,Jaipur,5,1555.61,7778.05
+1072,2025-08-07,Face Wash,Beauty & Personal Care,Nagpur,1,331.99,331.99
+1446,2025-08-07,Notebook Pack (5pc),Stationery,Delhi,1,247.16,247.16
+1208,2025-08-09,Laptop Stand,Electronics,Surat,1,1177.11,1177.11
+1282,2025-08-09,Men's Cotton T-Shirt,Apparel,Hyderabad,2,482.43,964.86
+1401,2025-08-09,Laptop Stand,Electronics,Kolkata,3,1276.60,3829.80
+1262,2025-08-10,Smartwatch,Electronics,Bengaluru,1,3662.74,3662.74
+1177,2025-08-12,Storybook Set (Kids),Books,Kolkata,2,590.71,1181.42
+1305,2025-08-13,LED Desk Lamp,Home & Kitchen,Pune,2,660.77,1321.54
+1543,2025-08-14,Yoga Mat,Sports & Fitness,Surat,3,703.18,2109.54
+1590,2025-08-14,Face Wash,Beauty & Personal Care,Nagpur,1,341.47,341.47
+1047,2025-08-15,Face Wash,Beauty & Personal Care,Jaipur,2,335.99,671.98
+1161,2025-08-15,Formal Shoes,Footwear,Chennai,5,2972.04,14860.20
+1459,2025-08-15,Smartwatch,Electronics,Ahmedabad,3,3633.50,10900.50
+1254,2025-08-16,USB-C Charger,Electronics,Bengaluru,1,852.46,852.46
+1585,2025-08-16,Storybook Set (Kids),Books,Hyderabad,2,533.49,1066.98
+1295,2025-08-18,Hair Dryer,Beauty & Personal Care,Pune,5,1135.91,5679.55
+1321,2025-08-18,Denim Jeans,Apparel,Ahmedabad,1,1630.05,1630.05
+1553,2025-08-18,Backpack,Bags & Luggage,Jaipur,1,1821.13,1821.13
+1303,2025-08-19,Smartwatch,Electronics,Nagpur,3,3692.93,11078.79
+1241,2025-08-21,USB-C Charger,Electronics,Lucknow,2,827.89,1655.78
+1257,2025-08-21,Notebook Pack (5pc),Stationery,Nagpur,1,256.15,256.15
+1454,2025-08-21,Backpack,Bags & Luggage,Ahmedabad,3,1796.43,5389.29
+1105,2025-08-22,Laptop Stand,Electronics,Jaipur,2,1263.97,2527.94
+1200,2025-08-22,Wireless Mouse,Electronics,Surat,1,625.31,625.31
+1214,2025-08-22,Formal Shoes,Footwear,Ahmedabad,1,2731.54,2731.54
+1587,2025-08-23,Hair Dryer,Beauty & Personal Care,Jaipur,3,1150.13,3450.39
+1502,2025-08-24,Men's Cotton T-Shirt,Apparel,Bengaluru,1,521.58,521.58
+1182,2025-08-25,Electric Kettle,Home & Kitchen,Lucknow,2,1243.20,2486.40
+1187,2025-08-25,Smartwatch,Electronics,Nagpur,1,3618.67,3618.67
+1211,2025-08-25,Running Shoes,Footwear,Ahmedabad,2,2220.43,4440.86
+1323,2025-08-25,Formal Shoes,Footwear,Kolkata,2,2942.19,5884.38
+1104,2025-08-26,Bluetooth Headphones,Electronics,Delhi,4,1532.67,6130.68
+1113,2025-08-27,Electric Kettle,Home & Kitchen,Kolkata,3,1244.56,3733.68
+1128,2025-08-27,Running Shoes,Footwear,Lucknow,1,2308.28,2308.28
+1138,2025-08-27,Electric Kettle,Home & Kitchen,Pune,2,1373.49,2746.98
+1377,2025-08-27,Notebook Pack (5pc),Stationery,Jaipur,4,247.70,990.80
+1043,2025-08-28,Bluetooth Headphones,Electronics,Delhi,5,1555.27,7776.35
+1227,2025-08-28,USB-C Charger,Electronics,Surat,5,773.67,3868.35
+1080,2025-08-29,Denim Jeans,Apparel,Pune,4,1560.54,6242.16
+1496,2025-08-29,Yoga Mat,Sports & Fitness,Kolkata,1,747.14,747.14
+1189,2025-08-30,Denim Jeans,Apparel,Hyderabad,1,1614.00,1614.00
+1332,2025-08-30,Laptop Stand,Electronics,Lucknow,2,1257.33,2514.66
+1433,2025-08-30,Smartwatch,Electronics,Jaipur,1,3633.90,3633.90
+1465,2025-08-30,Bluetooth Headphones,Electronics,Bengaluru,1,1480.00,1480.00
+1041,2025-08-31,Denim Jeans,Apparel,Hyderabad,3,1682.15,5046.45
+1349,2025-08-31,Running Shoes,Footwear,Chennai,2,2099.52,4199.04
+1484,2025-08-31,Denim Jeans,Apparel,Nagpur,1,1695.60,1695.60
+1108,2025-09-01,LED Desk Lamp,Home & Kitchen,Surat,1,638.42,638.42
+1516,2025-09-01,Bluetooth Headphones,Electronics,Delhi,3,1548.13,4644.39
+1115,2025-09-02,Wireless Mouse,Electronics,Kolkata,1,642.46,642.46
+1420,2025-09-02,Notebook Pack (5pc),Stationery,Ahmedabad,5,248.75,1243.75
+1435,2025-09-02,Women's Kurti,Apparel,Chennai,1,942.39,942.39
+1253,2025-09-03,Non-stick Pan,Home & Kitchen,Nagpur,1,903.87,903.87
+1375,2025-09-03,Notebook Pack (5pc),Stationery,Lucknow,1,249.85,249.85
+1429,2025-09-03,Women's Kurti,Apparel,Jaipur,2,877.67,1755.34
+1226,2025-09-04,Formal Shoes,Footwear,Delhi,1,2930.70,2930.70
+1583,2025-09-06,Laptop Stand,Electronics,Jaipur,1,1169.46,1169.46
+1069,2025-09-08,Running Shoes,Footwear,Delhi,3,2347.86,7043.58
+1135,2025-09-08,Smartwatch,Electronics,Ahmedabad,1,3521.25,3521.25
+1574,2025-09-08,Notebook Pack (5pc),Stationery,Kolkata,1,267.82,267.82
+1367,2025-09-09,Women's Kurti,Apparel,Ahmedabad,4,868.38,3473.52
+1018,2025-09-13,Non-stick Pan,Home & Kitchen,Bengaluru,2,957.44,1914.88
+1183,2025-09-13,LED Desk Lamp,Home & Kitchen,Jaipur,1,680.67,680.67
+1365,2025-09-13,Notebook Pack (5pc),Stationery,Chennai,2,249.08,498.16
+1397,2025-09-13,Notebook Pack (5pc),Stationery,Ahmedabad,4,251.66,1006.64
+1517,2025-09-13,Electric Kettle,Home & Kitchen,Delhi,1,1342.96,1342.96
+1283,2025-09-14,Face Wash,Beauty & Personal Care,Delhi,3,369.36,1108.08
+1561,2025-09-14,Laptop Stand,Electronics,Delhi,1,1192.82,1192.82
+1379,2025-09-15,Bluetooth Headphones,Electronics,Chennai,2,1586.06,3172.12
+1003,2025-09-16,Backpack,Bags & Luggage,Surat,1,1715.26,1715.26
+1107,2025-09-16,Electric Kettle,Home & Kitchen,Bengaluru,2,1374.31,2748.62
+1584,2025-09-16,Storybook Set (Kids),Books,Nagpur,2,550.75,1101.50
+1266,2025-09-17,Women's Kurti,Apparel,Delhi,2,872.13,1744.26
+1298,2025-09-17,USB-C Charger,Electronics,Mumbai,2,791.29,1582.58
+1096,2025-09-19,Storybook Set (Kids),Books,Nagpur,5,578.20,2891.00
+1579,2025-09-19,Non-stick Pan,Home & Kitchen,Kolkata,1,902.93,902.93
+1588,2025-09-19,Smartwatch,Electronics,Jaipur,1,3584.56,3584.56
+1461,2025-09-20,Electric Kettle,Home & Kitchen,Ahmedabad,1,1311.19,1311.19
+1176,2025-09-23,LED Desk Lamp,Home & Kitchen,Lucknow,1,693.84,693.84
+1381,2025-09-23,Formal Shoes,Footwear,Surat,1,2966.86,2966.86
+1559,2025-09-23,Face Wash,Beauty & Personal Care,Ahmedabad,2,357.89,715.78
+1088,2025-09-24,Face Wash,Beauty & Personal Care,Nagpur,4,362.71,1450.84
+1252,2025-09-24,Formal Shoes,Footwear,Mumbai,5,2825.72,14128.60
+1564,2025-09-24,Storybook Set (Kids),Books,Nagpur,1,546.41,546.41
+1317,2025-09-27,Bluetooth Headphones,Electronics,Lucknow,4,1553.04,6212.16
+1512,2025-09-27,Running Shoes,Footwear,Kolkata,1,2322.10,2322.10
+1065,2025-09-28,Wireless Mouse,Electronics,Surat,2,621.06,1242.12
+1469,2025-09-28,Laptop Stand,Electronics,Mumbai,1,1252.50,1252.50
+1518,2025-09-28,Bluetooth Headphones,Electronics,Nagpur,4,1468.82,5875.28
+1225,2025-09-29,Notebook Pack (5pc),Stationery,Chennai,3,266.12,798.36
+1411,2025-09-30,Storybook Set (Kids),Books,Mumbai,1,572.13,572.13
+1421,2025-09-30,Yoga Mat,Sports & Fitness,Nagpur,2,713.69,1427.38
+1471,2025-09-30,Non-stick Pan,Home & Kitchen,Pune,1,950.28,950.28
+1153,2025-10-01,Laptop Stand,Electronics,Jaipur,5,1181.81,5909.05
+1203,2025-10-01,Non-stick Pan,Home & Kitchen,Ahmedabad,2,965.56,1931.12
+1008,2025-10-02,Smartwatch,Electronics,Jaipur,1,3766.69,3766.69
+1150,2025-10-02,Men's Cotton T-Shirt,Apparel,Chennai,3,486.48,1459.44
+1488,2025-10-02,Women's Kurti,Apparel,Lucknow,1,860.07,860.07
+1235,2025-10-03,Laptop Stand,Electronics,Nagpur,1,1199.63,1199.63
+1455,2025-10-03,Women's Kurti,Apparel,Lucknow,2,943.09,1886.18
+1034,2025-10-04,Women's Kurti,Apparel,Surat,1,937.37,937.37
+1040,2025-10-04,Laptop Stand,Electronics,Lucknow,4,1251.80,5007.20
+1172,2025-10-04,Storybook Set (Kids),Books,Kolkata,2,552.79,1105.58
+1246,2025-10-04,Running Shoes,Footwear,Mumbai,1,2317.32,2317.32
+1204,2025-10-05,Bluetooth Headphones,Electronics,Surat,1,1544.37,1544.37
+1388,2025-10-07,Formal Shoes,Footwear,Hyderabad,1,2892.62,2892.62
+1503,2025-10-07,Storybook Set (Kids),Books,Surat,4,534.69,2138.76
+1334,2025-10-08,Backpack,Bags & Luggage,Chennai,1,1832.48,1832.48
+1148,2025-10-09,Yoga Mat,Sports & Fitness,Chennai,2,696.02,1392.04
+1404,2025-10-09,Running Shoes,Footwear,Lucknow,2,2324.98,4649.96
+1549,2025-10-09,Wireless Mouse,Electronics,Nagpur,2,643.26,1286.52
+1186,2025-10-10,Wireless Mouse,Electronics,Delhi,1,612.05,612.05
+1382,2025-10-10,Running Shoes,Footwear,Jaipur,1,2124.83,2124.83
+1024,2025-10-11,Wireless Mouse,Electronics,Jaipur,1,622.02,622.02
+1067,2025-10-11,Laptop Stand,Electronics,Nagpur,2,1181.50,2363.00
+1341,2025-10-11,Wireless Mouse,Electronics,Surat,2,599.45,1198.90
+1143,2025-10-12,Wireless Mouse,Electronics,Hyderabad,1,609.28,609.28
+1263,2025-10-12,Bluetooth Headphones,Electronics,Pune,2,1538.33,3076.66
+1406,2025-10-13,Dumbbell Set (10kg),Sports & Fitness,Jaipur,1,2619.32,2619.32
+1486,2025-10-13,Notebook Pack (5pc),Stationery,Hyderabad,1,240.89,240.89
+1076,2025-10-14,Electric Kettle,Home & Kitchen,Hyderabad,3,1398.50,4195.50
+1568,2025-10-14,Electric Kettle,Home & Kitchen,Kolkata,1,1395.91,1395.91
+1457,2025-10-16,Smartwatch,Electronics,Jaipur,2,3352.14,6704.28
+1548,2025-10-16,Women's Kurti,Apparel,Surat,2,923.26,1846.52
+1133,2025-10-17,Bluetooth Headphones,Electronics,Pune,1,1491.71,1491.71
+1243,2025-10-17,Women's Kurti,Apparel,Hyderabad,3,862.07,2586.21
+1519,2025-10-18,Storybook Set (Kids),Books,Surat,4,540.90,2163.60
+1140,2025-10-19,Backpack,Bags & Luggage,Ahmedabad,1,1865.32,1865.32
+1162,2025-10-19,Backpack,Bags & Luggage,Delhi,5,1723.14,8615.70
+1339,2025-10-20,Electric Kettle,Home & Kitchen,Jaipur,2,1265.68,2531.36
+1363,2025-10-21,Laptop Stand,Electronics,Surat,1,1221.58,1221.58
+1373,2025-10-21,Dumbbell Set (10kg),Sports & Fitness,Bengaluru,5,2525.90,12629.50
+1174,2025-10-22,Hair Dryer,Beauty & Personal Care,Surat,5,1179.89,5899.45
+1478,2025-10-22,Yoga Mat,Sports & Fitness,Pune,3,716.53,2149.59
+1087,2025-10-23,Women's Kurti,Apparel,Mumbai,3,883.82,2651.46
+1053,2025-10-24,Face Wash,Beauty & Personal Care,Mumbai,1,334.32,334.32
+1414,2025-10-24,Hair Dryer,Beauty & Personal Care,Ahmedabad,1,1076.56,1076.56
+1085,2025-10-25,Running Shoes,Footwear,Pune,2,2099.99,4199.98
+1020,2025-10-27,Electric Kettle,Home & Kitchen,Hyderabad,1,1385.67,1385.67
+1054,2025-10-27,Storybook Set (Kids),Books,Bengaluru,4,557.44,2229.76
+1114,2025-10-27,Wireless Mouse,Electronics,Kolkata,3,635.76,1907.28
+1529,2025-10-27,Non-stick Pan,Home & Kitchen,Hyderabad,2,864.07,1728.14
+1213,2025-10-28,Formal Shoes,Footwear,Chennai,1,2891.54,2891.54
+1244,2025-10-28,Women's Kurti,Apparel,Bengaluru,1,949.07,949.07
+1151,2025-10-29,Notebook Pack (5pc),Stationery,Hyderabad,5,255.87,1279.35
+1002,2025-10-30,Electric Kettle,Home & Kitchen,Hyderabad,1,1239.42,1239.42
+1279,2025-10-31,Storybook Set (Kids),Books,Hyderabad,1,559.16,559.16
+1106,2025-11-01,Yoga Mat,Sports & Fitness,Lucknow,4,750.38,3001.52
+1170,2025-11-01,Hair Dryer,Beauty & Personal Care,Ahmedabad,1,1175.66,1175.66
+1541,2025-11-01,Backpack,Bags & Luggage,Chennai,1,1754.78,1754.78
+1544,2025-11-01,Laptop Stand,Electronics,Nagpur,2,1185.88,2371.76
+1160,2025-11-02,Backpack,Bags & Luggage,Ahmedabad,2,1761.83,3523.66
+1245,2025-11-02,Wireless Mouse,Electronics,Bengaluru,5,590.64,2953.20
+1275,2025-11-02,USB-C Charger,Electronics,Lucknow,1,850.80,850.80
+1337,2025-11-02,Face Wash,Beauty & Personal Care,Hyderabad,2,332.30,664.60
+1400,2025-11-02,Storybook Set (Kids),Books,Delhi,1,541.94,541.94
+1535,2025-11-02,Backpack,Bags & Luggage,Mumbai,4,1892.51,7570.04
+1190,2025-11-03,Notebook Pack (5pc),Stationery,Delhi,1,260.71,260.71
+1307,2025-11-03,Bluetooth Headphones,Electronics,Delhi,2,1577.85,3155.70
+1475,2025-11-03,Bluetooth Headphones,Electronics,Ahmedabad,1,1471.74,1471.74
+1489,2025-11-05,Bluetooth Headphones,Electronics,Lucknow,1,1594.29,1594.29
+1095,2025-11-07,Yoga Mat,Sports & Fitness,Hyderabad,1,706.30,706.30
+1277,2025-11-07,LED Desk Lamp,Home & Kitchen,Jaipur,1,651.49,651.49
+1391,2025-11-07,Laptop Stand,Electronics,Nagpur,3,1187.77,3563.31
+1575,2025-11-09,Non-stick Pan,Home & Kitchen,Ahmedabad,1,922.65,922.65
+1374,2025-11-10,USB-C Charger,Electronics,Nagpur,1,765.88,765.88
+1251,2025-11-11,Bluetooth Headphones,Electronics,Surat,4,1565.77,6263.08
+1269,2025-11-11,Face Wash,Beauty & Personal Care,Nagpur,4,332.74,1330.96
+1300,2025-11-11,Backpack,Bags & Luggage,Jaipur,2,1827.64,3655.28
+1357,2025-11-11,Electric Kettle,Home & Kitchen,Mumbai,5,1280.41,6402.05
+1453,2025-11-11,Denim Jeans,Apparel,Bengaluru,1,1564.60,1564.60
+1526,2025-11-11,Backpack,Bags & Luggage,Mumbai,3,1801.83,5405.49
+1577,2025-11-11,Hair Dryer,Beauty & Personal Care,Delhi,1,1056.16,1056.16
+1395,2025-11-12,Electric Kettle,Home & Kitchen,Bengaluru,4,1275.98,5103.92
+1410,2025-11-12,Formal Shoes,Footwear,Jaipur,2,2875.09,5750.18
+1576,2025-11-13,Men's Cotton T-Shirt,Apparel,Chennai,3,526.84,1580.52
+1210,2025-11-14,Denim Jeans,Apparel,Hyderabad,2,1622.50,3245.00
+1220,2025-11-14,Running Shoes,Footwear,Surat,3,2282.80,6848.40
+1336,2025-11-15,LED Desk Lamp,Home & Kitchen,Ahmedabad,3,621.85,1865.55
+1202,2025-11-16,Non-stick Pan,Home & Kitchen,Surat,4,930.00,3720.00
+1319,2025-11-16,Men's Cotton T-Shirt,Apparel,Pune,1,520.83,520.83
+1296,2025-11-18,Yoga Mat,Sports & Fitness,Ahmedabad,1,677.77,677.77
+1569,2025-11-19,Men's Cotton T-Shirt,Apparel,Kolkata,2,486.14,972.28
+1297,2025-11-20,Formal Shoes,Footwear,Pune,2,2948.81,5897.62
+1070,2025-11-21,Electric Kettle,Home & Kitchen,Pune,1,1374.10,1374.10
+1206,2025-11-21,Smartwatch,Electronics,Mumbai,2,3525.87,7051.74
+1291,2025-11-21,Smartwatch,Electronics,Pune,1,3565.41,3565.41
+1527,2025-11-21,Running Shoes,Footwear,Hyderabad,2,2313.04,4626.08
+1012,2025-11-22,Dumbbell Set (10kg),Sports & Fitness,Surat,1,2426.89,2426.89
+1432,2025-11-23,Denim Jeans,Apparel,Nagpur,1,1529.96,1529.96
+1000,2025-11-24,Smartwatch,Electronics,Hyderabad,1,3335.43,3335.43
+1378,2025-11-24,Hair Dryer,Beauty & Personal Care,Kolkata,5,1070.05,5350.25
+1466,2025-11-25,Electric Kettle,Home & Kitchen,Ahmedabad,4,1297.29,5189.16
+1121,2025-11-26,Electric Kettle,Home & Kitchen,Mumbai,2,1256.97,2513.94
+1482,2025-11-26,Non-stick Pan,Home & Kitchen,Kolkata,1,945.89,945.89
+1060,2025-11-27,Formal Shoes,Footwear,Delhi,4,2825.42,11301.68
+1145,2025-11-27,Storybook Set (Kids),Books,Chennai,1,553.54,553.54
+1436,2025-11-27,Bluetooth Headphones,Electronics,Lucknow,1,1600.98,1600.98
+1557,2025-11-27,Non-stick Pan,Home & Kitchen,Kolkata,1,967.04,967.04
+1035,2025-11-29,Dumbbell Set (10kg),Sports & Fitness,Delhi,2,2516.38,5032.76
+1331,2025-11-29,Yoga Mat,Sports & Fitness,Chennai,1,735.96,735.96
+1515,2025-12-01,Bluetooth Headphones,Electronics,Jaipur,1,1442.27,1442.27
+1591,2025-12-01,Denim Jeans,Apparel,Ahmedabad,5,1580.93,7904.65
+1058,2025-12-03,Hair Dryer,Beauty & Personal Care,Chennai,1,1124.80,1124.80
+1272,2025-12-03,Non-stick Pan,Home & Kitchen,Mumbai,3,862.18,2586.54
+1309,2025-12-03,Backpack,Bags & Luggage,Lucknow,1,1913.28,1913.28
+1193,2025-12-04,Storybook Set (Kids),Books,Ahmedabad,1,583.30,583.30
+1508,2025-12-04,Storybook Set (Kids),Books,Kolkata,2,522.67,1045.34
+1552,2025-12-04,Laptop Stand,Electronics,Delhi,3,1250.53,3751.59
+1052,2025-12-05,Storybook Set (Kids),Books,Mumbai,1,532.60,532.60
+1355,2025-12-05,Formal Shoes,Footwear,Kolkata,2,2770.57,5541.14
+1310,2025-12-06,Laptop Stand,Electronics,Surat,1,1281.94,1281.94
+1369,2025-12-08,Dumbbell Set (10kg),Sports & Fitness,Chennai,2,2604.56,5209.12
+1089,2025-12-10,Women's Kurti,Apparel,Surat,1,896.62,896.62
+1264,2025-12-10,Smartwatch,Electronics,Kolkata,4,3510.91,14043.64
+1313,2025-12-10,Notebook Pack (5pc),Stationery,Jaipur,2,239.58,479.16
+1490,2025-12-10,Face Wash,Beauty & Personal Care,Pune,1,341.40,341.40
+1462,2025-12-11,Formal Shoes,Footwear,Mumbai,1,2922.23,2922.23
+1228,2025-12-12,Non-stick Pan,Home & Kitchen,Pune,3,967.09,2901.27
+1445,2025-12-12,Women's Kurti,Apparel,Kolkata,4,874.56,3498.24
+1320,2025-12-13,Denim Jeans,Apparel,Nagpur,2,1720.60,3441.20
+1362,2025-12-14,LED Desk Lamp,Home & Kitchen,Delhi,1,696.60,696.60
+1598,2025-12-14,Smartwatch,Electronics,Kolkata,3,3385.73,10157.19
+1221,2025-12-15,Laptop Stand,Electronics,Surat,4,1236.98,4947.92
+1422,2025-12-15,Running Shoes,Footwear,Hyderabad,1,2263.45,2263.45
+1389,2025-12-17,Non-stick Pan,Home & Kitchen,Mumbai,1,888.81,888.81
+1015,2025-12-19,Face Wash,Beauty & Personal Care,Mumbai,1,341.51,341.51
+1165,2025-12-19,Backpack,Bags & Luggage,Chennai,1,1818.95,1818.95
+1171,2025-12-19,Formal Shoes,Footwear,Jaipur,4,2913.66,11654.64
+1524,2025-12-19,USB-C Charger,Electronics,Mumbai,5,811.07,4055.35
+1418,2025-12-20,Women's Kurti,Apparel,Ahmedabad,3,902.01,2706.03
+1554,2025-12-21,Electric Kettle,Home & Kitchen,Pune,3,1325.86,3977.58
+1092,2025-12-23,Formal Shoes,Footwear,Surat,1,2860.78,2860.78
+1236,2025-12-23,Face Wash,Beauty & Personal Care,Bengaluru,3,350.57,1051.71
+1430,2025-12-23,Running Shoes,Footwear,Lucknow,2,2128.29,4256.58
+1514,2025-12-23,Denim Jeans,Apparel,Delhi,3,1581.41,4744.23
+1565,2025-12-23,LED Desk Lamp,Home & Kitchen,Nagpur,1,643.46,643.46
+1311,2025-12-24,Non-stick Pan,Home & Kitchen,Delhi,3,869.12,2607.36
+1216,2025-12-25,Formal Shoes,Footwear,Kolkata,3,2667.03,8001.09
+1233,2025-12-25,Formal Shoes,Footwear,Mumbai,1,2895.29,2895.29
+1004,2025-12-26,Face Wash,Beauty & Personal Care,Chennai,1,350.58,350.58
+1555,2025-12-26,Face Wash,Beauty & Personal Care,Delhi,4,358.49,1433.96
+1010,2025-12-27,USB-C Charger,Electronics,Chennai,1,763.81,763.81
+1064,2025-12-27,Formal Shoes,Footwear,Surat,5,2881.62,14408.10
+1112,2025-12-28,Women's Kurti,Apparel,Jaipur,1,861.56,861.56
+1166,2025-12-28,Formal Shoes,Footwear,Surat,2,2914.85,5829.70
+1136,2025-12-29,Laptop Stand,Electronics,Surat,3,1206.93,3620.79
+1594,2025-12-30,Backpack,Bags & Luggage,Bengaluru,1,1857.04,1857.04
+1256,2025-12-31,Yoga Mat,Sports & Fitness,Chennai,2,698.66,1397.32
+1326,2025-12-31,Notebook Pack (5pc),Stationery,Bengaluru,1,264.10,264.10

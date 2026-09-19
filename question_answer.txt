@@ -1,0 +1,49 @@
+1. What is the total revenue?
+->Total Revenue: 1585740.21
+
+2. Which product generates the most sales?
+->Top Product: Formal Shoes
+Total Sales: ₹254,768.70
+
+3. Which category is most profitable?
+->Category with highest sales: Electronics
+Total Sales: ₹408,873.18
+
+4. Which month has the highest sales?
+->Highest Sales Month: 2025-08
+Total Sales: ₹179,275.52
+
+5. Which city has the highest revenue?
+->Highest Revenue City: Delhi
+Revenue: ₹214,188.31
+
+6. What is the average order value?
+->Average Order Value(AOV): ₹2,642.90
+
+7. Which products are performing poorly?
+->Notebook Pack (5pc)     19128.06
+Men's Cotton T-Shirt    20338.69
+Face Wash               25754.21
+LED Desk Lamp           30245.71
+Yoga Mat                30765.64
+
+8. How do sales change over time?
+-> Monthly sales trend is saved in visualizaions
+
+9. What percentage of revenue comes from each category?
+->Electronics               25.784374
+Footwear                  24.489020
+Home & Kitchen            12.564344
+Apparel                   12.075957
+Sports & Fitness           8.118607
+Bags & Luggage             6.887855
+Beauty & Personal Care     5.685750
+Books                      3.187839
+Stationery                 1.206254
+
+10. What business recommendations can be made from the data?
+->Focus on high-performing products
+If your Top 5 products generate a large share of revenue:
+
+Recommendation: Maintain sufficient inventory for high-performing 
+products and prioritize them in promotions and marketing campaigns.
